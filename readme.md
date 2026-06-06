@@ -1,10 +1,4 @@
-Harika bir `README.md` dosyası, projenin profesyonel görünmesi ve başkalarının (veya senin) projeyi anlaması için olmazsa olmazdır. GitHub'daki deponun ana sayfasında doğrudan gözükecek şekilde şu içeriği kullanabilirsin:
 
----
-
-### `README.md`
-
-```markdown
 # Vectoria Pro - Yerel Arama Motoru
 
 Vectoria Pro, bilgisayarınızdaki metin dosyalarını (.txt, .md, .py vb.) otomatik olarak indeksleyen ve **TF-IDF (Term Frequency-Inverse Document Frequency)** algoritmasını kullanarak sorgularınıza en alakalı sonuçları getiren yerel bir arama motorudur.
@@ -24,7 +18,7 @@ Vectoria Pro, bilgisayarınızdaki metin dosyalarını (.txt, .md, .py vb.) otom
    cd Vectoriapy
    
 
-```
+
 
 2. **Gerekli Kütüphaneleri Yükleyin:**
 ```bash
