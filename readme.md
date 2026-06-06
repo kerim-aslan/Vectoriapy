@@ -20,25 +20,15 @@ Vectoria Pro, bilgisayarınızdaki metin dosyalarını (.txt, .md, .py vb.) otom
 
 1. **Depoyu Klonlayın:**
    ```bash
-  
-   cd VectoriaPro
+   git clone [https://github.com/kerim-aslan/Vectoriapy.git](https://github.com/kerim-aslan/Vectoriapy.git)
+   cd Vectoriapy
+   
 
 ```
 
 2. **Gerekli Kütüphaneleri Yükleyin:**
 ```bash
 pip install -r requirements.txt
-
-```
-
-
-
-## 📖 Kullanım
-
-1. **Veri Setini Hazırlayın:**
-Wikipedia'dan veri çekmek isterseniz `veri_seti/veri_toplayıcı.py` dosyasını çalıştırın:
-```bash
-python veri_seti/veri_toplayıcı.py
 
 ```
 
