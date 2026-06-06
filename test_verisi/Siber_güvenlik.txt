@@ -1,0 +1,45 @@
+Bilgisayar güvenliği, elektronik ortamlarda verilerin veya bilgilerin saklanması ve taşınması esnasında bilgilerin bütünlüğü bozulmadan, izinsiz erişimlerden korunması için, güvenli bir bilgi işleme platformu oluşturma çabalarının tümüdür. Bunun sağlanması için duruma uygun güvenlik politikasının belirlenmesi ve uygulanması gereklidir.
+Bu politikalar;
+
+Etkinliklerin sorgulanması
+Erişimlerin izlenmesi
+Değişikliklerin kayıtlarının tutulup değerlendirilmesi
+Silme işlemlerinin sınırlandırılması
+gibi bazı kullanım şekillerine indirgenebilmektedir.
+Bilgisayar teknolojilerinde yer alan bilgisayar güvenliğinin amacı ise: "Kişi ve kurumların bu teknolojilerini kullanırken karşılaşabilecekleri tehdit ve tehlikelerin incelemelerinin yapılarak gerekli önlemlerin önceden alınmasıdır". Bilgi ve bilgisayar güvenliği daha genel anlamda, güvenlik konularını detaylı olarak ele alan "güvenlik mühendisliği"nin bir alt alanı olarak görülmektedir.
+Bilgisayar güvenliği geniş anlamda bir koruyucu mekanizma olarak düşünüldüğünde, kişisel veya kurumsal bilgisayarlar için genel olarak aşağıdaki maddelerin hepsinini veya bazılarının uygulanması gerekmektedir:
+
+Virüs koruma yazılımlarının kurulu olması
+Bu yazılımların ve işletim sistemi hizmet paketlerinin ve hata düzeltme ve güncellemelerinin düzenli aralıklarla yapılması
+Bilgisayarda şifre korumalı ekran koruyucu kullanılması
+Kurmuş olduğunuz yazılımların paylaşıma açık olup olmadığının kontrol edilmesi
+Bilgisayar başından uzun süreliğine ayrı kalındığında sistemden çıkılması
+Kullanılan parolaların tahmininin zor olacak şekilde belirlenmesi
+Bu parolaların gizli tutulması ve belirli aralıklarla değiştirilmesi
+Disk paylaşımlarında dikkatli olunması
+İnternet üzerinden indirilen veya e-posta ile gelen dosyalara dikkat edilmesi
+Önemli belgelerin parola ile korunması veya şifreli olarak saklanması
+Gizli veya önemli bilgilerin e-posta, güvenlik sertifikasız siteler gibi güvenli olmayan yollarla gönderilmemesi
+Kullanılmadığı zaman İnternet erişiminin kapatılması
+Önemli bilgi ve belgelerin düzenli aralıklarla yedeklerinin alınması
+Eğer Windows kullanıyorsanız güncellemeleri yapmanız
+gibi önlemler, basit gibi gözükebilecek ama hayat kurtaracak önlemlerden bazılarıdır.
+
+
+== Bilgisayar güvenlik mimarisi ==
+Bilgisayar güvenlik mimarisi, bilgisayar sistemlerinin ve ağların güvenliğini sağlamak için tasarlanmış bir yapı veya planlama sürecini ifade eder. Temel olarak, bilgisayar güvenliği mimarisi, bilgisayar sistemlerinin ve ağların korunması için kullanılan önlemleri ve bu önlemlerin nasıl uygulanacağını belirleyen bir disiplindir.
+Bir bilgisayar güvenlik mimarisi genellikle aşağıdaki unsurları içerir:
+
+Güvenlik Politikaları ve Standartlar: Bir organizasyonun veya sistemlerin güvenlik gereksinimlerini tanımlayan ve belirleyen politika ve standartların oluşturulması.
+Güvenlik Mekanizmaları ve Kontrolleri: Bilgisayar sistemlerinde ve ağlarda kullanılan güvenlik önlemleri, teknik mekanizmalar ve kontroller. Örneğin, kimlik doğrulama, yetkilendirme, şifreleme, güvenlik duvarları, virüs taraması gibi.
+Güvenlik Mimarisinin Tasarımı: Bilgisayar sistemlerinin ve ağların mimarisi üzerinde güvenlik gereksinimlerini entegre etmek. Bu, güvenlik bileşenlerinin nasıl yerleştirileceği, ağ trafiğinin nasıl yönlendirileceği gibi konuları içerir.
+Güvenlik İzleme ve Yönetimi: Sistemlerdeki güvenlik olaylarının izlenmesi, günlük kayıtların incelenmesi ve güvenlik politikalarının uygulamaya konulması.
+Eğitim ve Farkındalık: Kullanıcıların güvenlik konusunda eğitilmesi ve bilinçlendirilmesi, güvenlik politikalarına uygun davranmalarının sağlanması.
+Bilgisayar güvenlik mimarisi, hem fiziksel hem de dijital tehditlere karşı koruma sağlamayı amaçlar ve genellikle karmaşık bir yapıya sahiptir. Her organizasyonun veya sistemlerin güvenlik ihtiyaçları farklı olduğundan, güvenlik mimarisi her duruma özgü olarak tasarlanmalı ve sürekli olarak güncellenmelidir. Bu, bilgisayar sistemlerinin ve ağların güvenliğini sağlamak için kritik bir öneme sahiptir.
+
+
+== Ayrıca bakınız ==
+Bilgi güvenliği
+
+
+== Kaynakça ==

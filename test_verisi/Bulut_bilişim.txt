@@ -1,0 +1,222 @@
+Bulut bilişim (İngilizce: cloud computing), bilgisayarlar ve diğer cihazlar için, istendiği zaman kullanılabilen ve kullanıcılar arasında paylaşılan bilgisayar kaynakları sağlayan, internet tabanlı bilişim hizmetlerinin genel adıdır. Bulut bilişim bu yönüyle bir ürün değil, hizmettir; temel kaynaktaki yazılım ve bilgilerin paylaşımı sağlanarak, mevcut bilişim hizmetinin; bilgisayarlar ve diğer aygıtlardan elektrik dağıtıcılarına benzer bir biçimde bilişim ağı (tipik olarak İnternet'ten) üzerinden kullanılmasıdır.
+Bulut sözcüğü dosyaların sağlandığı konumu işaret etmektedir. Klasik bir algı olarak işlemleme ve saklama konumlarının aynı aygıtta bulunması durumu klişeleşmiştir. Ancak saklama boyutu bulutlara yani saklama ve altyapı hizmeti barındıran hizmetlere doğru kaymaktadır. Bu gidişin ilk öncü uygulamaları, İnternet sağlayıcıları tarafından, yedekleme amacıyla sunulan bulutlardır. Örneğin, Türkiye'de hizmet veren bir İnternet sağlayıcısı olan TTNET; TTNET Bulutu adlı hizmetle Türkiye piyasasına girmiştir. Google gibi uluslararası bilişim şirketleri ise; Google Drive gibi çevrimiçi bilgi işleme özelliği sunan uygulamalar geliştirmiştir. Ayrıca; Microsoft ve Intel gibi büyük teknoloji firmaları da; bu teknolojiyi bilişim tüketicisine sunmuştur.
+Bilgisayar kuramcıları tarafından İnternet'in geleceğinin bulut bilişimden geçtiği iddia edilmektedir. Buna göre gelecekte, bilgisayar hard disklerinin yerine çevrimiçi bulutların kullanılacağı ön görüsü hakimdir. Bu bilişim aygıtlarında herhangi bir altyapı hazırlamadan, tamamen çevrimiçi ağ vasıtasıyla işlevsel uygulamalara ulaşmak anlamına gelmektedir. Bu sektörün gelişmesiyle, özellikle bilişim teknolojisi tüketen toplumlarda birçok bilgi dağıtımı sağlayan firmanın önemli bir konuma geleceği, hatta sektördeki rekabetin hukuksal sorunlara neden olabileceği tartışılmaktadır. Çünkü tüm bilgi-işlem uygulamalarının çevrimiçi altyapıya kaydırılmasına giden yol; kişisel bilgilere istenilmeyen erişimleri doğurabilme tehlikesini taşımaktadır.
+
+
+== Genel değerlendirme ==
+Bulut bilişim, kullanıcıların yerel konumlarında; herhangi bir işlem, yazılım, veri erişimi veya servis altyapısı gerekmeksizin; alınacak hizmetin sağlanabilmesini konu alan bilişim servisidir. Bu hizmetin kullanım kuramlaması elektrik dağıtıcılarıyla paralellik göstermekte, böylece kullanıcılar diledikleri hizmetten kendi aygıtlarında herhangi bir altyapı oluşturmadan yararlanabilmektedir.
+Bu kuram bilişim teknolojilerindeki sürekli bir gerekliliğin yerini doldurmuştur. Bilişim ürünlerinin yazılım boyutlarındaki artışlar dikkate alınırsa: yeni altyapı ve yeni personel eğitimleri gibi faktörlerin ortadan kalkmasını sağlayan bu sistem, abonelik veya birim başı ödeme mantığıyla; İnternette gerçek zamanlı işlem yapabilme yeteneğinin sınırlarını genişletmiştir.
+Bulut bilişim, İnternet teknoloji servisleri için temeli İnternet protokollerine dayanan; yeni bir tamamlayıcı, hizmet dağıtıcı olarak tanımlanmaktadır. Bu sistem sayesinde programlarla yapılan birçok bilişimsel işlem; artık İnternet üzerinden sanal olarak yapılabilmektedir. Bu İnternet'le birlikte uzak bilgisayarlara erişebilmek ve bu bilgisayarlar üzerinden veri işleyebilme tekniğinin bir getirisidir. Çevrimiçi olarak yapılandırılan ağ tabanlı araçlar ve uygulamalar sayesinde, ağ tarayıcıları birçok programın bir araya toplandığı ve bilgisayarlar arası işlem yapılabilen bir alana dönüşmüştür.
+Bulut bilişim, ağ tarayıcılarıyla erişilen siteler sayesinde uygulamaların İnternet üzerinden kullanılmasını sağlar. Bu yazılımlar ve verilerin uzak bir konumda bulunan sunucularda erişime açılmasıyla mümkün olur. Bu kullanım iki genel çerçeveye sahiptir. Bunlardan ilki yaygın olarak kullanılan programlarla oluşturulan dosyaların herhangi bir konumda görüntülenebilmesini sağlayan çevrimiçi uygulamalardır. Örneğin Microsoft Ofis ile yazılan bir metin belgesinin bu yazılımın kurulu olmadığı bir konumda, İnternet üzerinden ön izlemeye alınabilmesi bu tür bir gelişimdir. Sistemin ikinci boyutu ise çevrimiçi işlevsel yaratımların oluşturulabilmesidir. Bunun için sayfa yinelemesi gerektirmeyen ve konum dinamikliğini sağlayan bir sistem olan AJAX geliştirilmiştir. Böylece işlevsel etkinin izdüşümü anında sayfaya yansıtılabilmiş, İnternet üzerinden program kullanımının önü açılmıştır.
+Günümüzde birçok bulut bilişim sağlayıcısı; birçok sistem için gerekli altyapıyı temel bir veri sisteminden aktarmakta, kullanıcıların bilişim aygıtlarında bu programların yüklü olması ihtiyacı ortadan kalkmaktadır. Bununla birlikte, gelişen bu yeni sektörde ticari hakların korunumu önemli bir durum olarak belirmektedir, bunun için hizmet derecelendirme anlaşmaları olsa da; küçük şirketler patentli özel adlandırmalardan kaçınarak, sektörde yer almaktadır.
+
+
+== Tarihçe ==
+Türkçe “bulut bilişim” olarak kullanılan “cloud computing” teriminin kaynağı tam olarak belli değildir, fakat bilişim ve iletişim sistemlerinin diyagramlarındaki ağları belirtmek için kullanılan bulutvari çizimlerden türetilmiş gibi gözükmektedir. Bulut sembolü 1994 yılına gelene kadar İnternet'i sembolize etmekteydi.
+Bulut sözcüğü İnternet için kullanılan bir metafor idi, telefon şemalarında bir ağı belirtmekte olan bulutvari şeklin standartlaşmış kullanımını esas almıştı ve sonraları bilgisayar ağ diyagramlarında İnternet'e ait temel altyapının bir gösterimi olarak kullanıldı.
+1990'larda önceden noktadan noktaya özel veri devreleri sağlayan telekomünikasyon şirketleri, artık daha iyi hizmet kalitesine ve daha az masrafa sahip olan Sanal Özel Ağ hizmetlerini sağlamaya başladılar. Kullanımı dengelemek için uygun gördüklerinde trafik anahtarlama ile toplam ağ bant genişliğini daha etkin kullanmayı başardılar. Bulut sembolü sağlayıcıların sorumlulukları ile kullanıcıların sorumlulukları arasındaki sınırı belirtmek için kullanıldı. Bulut bilişim bu sınırı sunuculardan ağ altyapısına kadar kapsayacak şekilde genişletmiştir.
+Bulut bilişimin temel kavramı 1950'lere dayanmaktadır; üniversite ve şirketlerde kullanılan büyük boyutlu ana bilgisayarlara zayıf istemciler/terminal bilgisayarlar tarafından ulaşılabilirdi. Bir ana bilgisayar alınması çok masraflı olduğu için, var olan bu bilgisayardan en iyi şekilde faydalanılması oldukça önemliydi. Piyasada zaman paylaşımı (İngilizce: time sharing) olarak bilinen, birçok kullanıcının bilgisayarı hem fiziksel erişimde hem de CPU kullanımında paylaşmasına izin veren, bilgisayarın boş kalma süresini elimine eden bu sistem bilgisayarlardan en iyi şekilde istifade edilmesini sağlamıştır.
+Bilgisayarlar yaygınlaştıkça, bilim adamları ve teknoloji uzmanları büyük boyutlu bilgi işleme gücünü zaman paylaşımı yoluyla daha fazla kullanıcıya sunmanın yollarını aradılar. Son kullanıcılara daha verimli bir kullanım ve CPU'ya erişim önceliklendirmesi kullanarak altyapı, platform ve uygulamaların optimum kullanımını sağlamak üzere algoritmalarla deneyler yapılmıştır.
+John McCarthy’nin 1960’larda bilgi işlem kullanımının bir gün elektrik ve su hizmeti gibi bir kamu hizmeti şeklinde organize edilebileceği konusunda öngörüleri vardı. Bulut bilişimin günümüz özelliklerinin neredeyse tamamı (esnek hizmet sağlama, kamu hizmeti olarak sağlanma, çevrimiçi ağ üzerinde bulunma, sınırsız kaynak illüzyonu) elektrik dağıtım sektörü ile kıyas edilerek genel, özel, kamu ve topluluklara ayrı kullanım formları düşünülerek Douglas Parkhill’in 1966 tarihli “The Challange of Computer Utility” adlı kitabında incelenmiştir. Diğer araştırmacılar bulut bilişimin tarihini 1950'lere bilim adamı Herb Grosch'un bütün dünyanın aptal (İngilizce: dumb) terminaller kullanarak 15 adet büyük veri merkezinden çalışan bir sistem kullanacağı varsayımına dayandırmaktadır. Bu güçlü bilgisayarların çok pahalı olması sebebiyle, GE'nin İngilizce: GEISCO, IBM subsidiary the service bureau Corporation, Tymshare, National CSS, Dial Data, Bolt, Beranek and Newman gibi şirketler kendilerine ait olan bu bilgi işlem kapasitelerini zaman paylaşımı ve çeşitli düzenlemelerle ticari bir girişim olarak pazarlamışlardır.
+Yüksek kapasiteli ağların her yerde kullanılabilir olması, bilgisayarların ve depolama cihazlarının ucuzlamasının yanı sıra donanım sanallaştırmasının yaygın olarak benimsenmesi, hizmet amaçlı mimari, özerk (otonom) ve hizmet bilgi işlemesi bulut bilişimde çok büyük bir büyümeye önayak oldu.
+Dot-com balonu döneminden sonra, Amazon veri merkezlerini modernize ederek bulut bilişimin gelişmesinde anahtar bir rol oynadı. Bu dönemde bilgisayar ağlarının çoğu kapasitelerinin %10'unu kullanıyordu, sadece özel durumlardaki kapasite artışları için bütün sistem bekliyordu. Amazon boş bekleyen bu kaynakları bilgi işleme hizmet servisi olarak kullandı. Yeni bulut mimarisinin temelinin atılmasının sonucu olarak önemli şirket içi verimlilik artışları yaşandı. Amazon'un küçük aktif çalışan ekipleri “iki pizza takımları” vasıtasıyla yeni özellikler kolayca eklendi. Amazon şirket içinde geliştirdiği bu hizmetleri dışarıya pazarlamak üzere yeni ürün geliştirme çalışmalarını başlattı ve Amazon Web Hizmetleri (AWS) 2002 yılında hizmete girdi. İlk gerçek bulut bilişim hizmeti olarak Amazon S3 2006 yılında hizmete girdi. Bununla birlikte asıl buluş S3 için geliştirilen fiyatlandırma modeliydi, kullandıkça öde modeli şu an bulut hizmetleri fiyatlandırılmasında defakto standart olmuştur.
+2008'in başlarında, Eucalyptus ilk açık kaynak, özel bulutların yerleştirilmesi için kullanılan Amazon Web Services-API uyumlu platform oldu. Yine 2008 başlarında, OpenNebula, Avrupa komisyonu tarafından desteklenen RESERVOIR projesi özel, hibrid (karma) ve federasyon bulutlarını uygulayan ilk açık kaynak yazılım oldu. Aynı yıl içerisinde IRMOS Avrupa Komisyonu tarafından desteklenen proje kapsamında yapılan çalışmalar bulut tabanlı altyapıların hizmet kalitesinde (QoS) garanti edilecek elemanlara örneğin veri aktarım hızı, ağ gecikmesi, paket gecikme süresi değişimi (İngilizce: jitter), paket kaybolma olasılığı, bit hata oranı gibi (gerçek zamanlı interaktif uygulamalar tarafından da kullanılmaktadır) yoğunlaştı, sonuç olarak gerçek zamanlı bulut ortamı ortaya çıktı. 2008'in ortalarına gelindiğinde, Gartner bulut bilişimi bilgi teknoloji hizmetleri sektöründe hem kullanıcılar hem de tedarikçiler arasındaki ilişkiyi değiştirebilecek potansiyeli işaret etti. Thinkgrid işletmelerin kendilerine ait donanım ve yazılım varlıklarını, kullandıkça öde hizmet modelleri ile değiştirdiğini böylece gelecekte bazı BT ürünlerinde (tabletler, laptoplar veya thin clientler gibi) artış olurken bazı BT ürünlerinde (PC'ler gibi) azalış olacağını belirtti.
+Bulut bilişimin NIST (ABD Ulusal Standartlar ve Teknoloji Enstitüsü) tarafından yapılan tanımı şu şekildedir; "Bulut bilişim, düşük yönetim çabası veya servis sağlayıcı etkileşimi ile, hızlı alınıp salıverilebilen ayarlanabilir bilişim kaynaklarının paylaşılır havuzuna, istendiğinde ve uygun bir şekilde ağ erişimi sağlayan bir modeldir."
+
+
+== Benzer sistemler ve kavramlar ==
+Bulut bilişim aşağıdakilerle benzer özellikler taşır:
+
+Otonom (özerk) bilgi işleme: Bilgisayar sistemleri kendini yönetme kabiliyetlidir.
+İstemci-sunucu modeli: İstemci-sunucu bilgi işleme genel olarak hizmet sağlayıcıları (sunucu) ile hizmet talep edenler (istemci) arasında tanılanan herhangi bir dağıtık uygulamayı kapsar.
+İngilizce: Grid computing: Ağ tabanlı birbirine gevşek bağlı bilgisayar kümelerinin birbirleriyle uyumlu olarak çok büyük görevleri gerçekleştirmek üzere birleşimi olan süper sanal bilgisayarlar vasıtasıyla yapılan dağıtık ve paralel bilgi işleme formudur.
+Anabilgisayarlar: Çok güçlü bilgisayarlardır, örneğin nüfus, endüstri ve tüketici istatistikleri, polis ve gizli istihbarat servisleri, kurumsal kaynak planlanması ve mali işlemlerdeki gibi çok büyük hacimli veri işleme amacıyla veya büyük organizasyonlar tarafından kritik uygulamalar için kullanılırlar.
+Hizmet Bilgi İşleme: Bilgi işleme kaynaklarının paketlenmesi, örneğin bilgi işlem (berim) ve depolama gibi kaynakların geleneksel elektrik hizmetine benzer şekilde kullanım miktarını ölçülendiren bir hizmet olarak sunulmasıdır.
+Peer to Peer: Merkezî bir koordinasyona ihtiyaç duymayan iki veya daha fazla bilgisayar arasında veri kopyası oluşturmak için kullanılan dağıtık mimaridir, kullanıcılar aynı anda hem sağlayıcı hem talep eden olabilmektedir (bu yönüyle klasik istemci-sunucu modelinden farklıdır).
+Bulut oyunu: Aynı zamanda “on demand” oyun da denir, oyunları bilgisayara iletmenin bir yöntemidir. Oyun bilgisi oyun sağlayıcılarının sunucusunda depolanacaktır böylece oyun istemci bilgisayardan bağımsız olacaktır.
+
+
+== Özellikler ==
+Bulut bilişim aşağıdaki ana özellikleri sağlar:
+
+Hızlı kullanım, kullanıcıların teknolojik altyapı kaynaklarını tekrar tekrar sağlama kabiliyeti ile gelişir.
+Uygulama Programlama Ara yüzü (API) bulut yazılımı ile bilgisayarların etkileşmesine izin veren tıpkı bilgisayar ile kullanıcısı arasındaki iletişimi sağlayan kullanıcı arayüzü gibi bir tanımlamalar bütünüdür. Bulut bilişim sistemleri genel olarak REST tabanlı API'leri kullanır.
+Daha az masraflıdır, genel bulut dağıtım modelinde sermaye masrafları işletimsel masraflara dönüşmüştür. Bulut özellikle küçük ve orta ölçekli şirketler için imkânlarının yetmeyeceği bilgi teknolojileri altyapı masraflarını ortadan kaldırmıştır.
+Hizmet bilgi işleme temelinde yapılan ücretlendirme şekline göre ayrıntılı kullanım seçenekler vardır, bu hizmet bilgi işleme kullanımı ile şirket içinde daha az bilgi teknolojileri konusunda yetişmiş eleman ile işler yürütülür. E-FISCAL projesinin son teknoloji (İngilizce: state-of-the-art) veri havuzunda maliyet konularının daha detaylı incelendiği birçok yazı vardır, yazılar genellikle maliyet tasarruflarının desteklenen aktivite tipine ve kurum içinde kullanılabilen altyapı tiplerine bağlı olduğu sonucunu belirtmiştir.
+Cihaz ve yer bağımsızlığı kullanıcılara bir web tarayıcısı kullanarak bulundukları yer ve kullandıkları cihazdan bağımsız olarak sistemlere erişebilme imkânı tanır. Altyapı dışarıdan sağlanıyorsa (üçüncü parti tarafından) ve İnternet'ten erişim varsa, kullanıcılar herhangi bir yerden bağlanabilirler.
+Sanallaştırma teknolojisi sunucuların ve depolama cihazlarının paylaşımının ve kullanımının artırılmasına izin vermektedir. Uygulamalar bir fiziksel sunucudan diğerine kolayca transfer edilebilmektedir.
+Çoklu kullanıcılık kaynakların ve masrafların büyük bir kullanıcı havuzunda paylaşımına izin vermektedir, ayrıca diğer faydaları şunlardır:
+
+Daha az masraflı yerlerde altyapının merkezileştirilmesi (mesela gayrimenkul, elektrik gibi)
+Yük kapasitesinin tepe noktası artar (müşteriler mümkün olan en yüksek yük seviyeleri için endişe duymazlar).
+Sistemlerden yararlanma ve verimlilik gelişmeleri çoğunlukla %10-20'lik bir fayda artışı sağlar.
+Eğer çoklu yedekli alanlar kullanılırsa, güvenirlik gelişir. İş devamlılığı ve felaket kurtarma için yedekli planlar daha uygundur.
+Ölçeklenebilirlik ve esneklik özelliği, dinamik (talep üzerine) kaynakların hazırlığı sayesinde detaylı, self servis temelli, gerçek zamanlıya yakın hizmetler kullanıcılara sunulur.
+Performans monitörlenir, tutarlı ve gevşek bağlı mimariler web hizmetleri kullanılarak sistem arayüzü gibi kurulurlar.
+Verinin merkezileştirilmesi sayesinde güvenlik gelişmiştir, artırılmış güvenlik odaklı kaynaklar gibi fakat bazı hassas veriler üzerindeki kontrol kaybı ile ilgili ve depolanmış çekirdekler için güvenlik eksikliği ile ilgili endişeler sürmektedir. Güvenlik çoğu durumda geleneksel sistemlerden çok daha iyidir çünkü sağlayıcılar müşterilerinin gücünün yetmediği güvenlik sorunlarına kaynak ayırabilecek durumdadırlar. Bununla birlikte, veri geniş bir alan üzerinde veya çok sayıda cihaz üzerinde dağıtıldığında ve çok kullanıcılı sistemler bağlantısız kullanıcılar tarafından paylaşıldığı durumlarda güvenliğin karmaşıklığı inanılmaz bir şekilde artar. Ek olarak, güvenlik denetim günlüklerine kullanıcı erişimi çok zorlaşır veya imkânsızlaşır. Özel bulut kurulumları, kısmen müşterilerin altyapı üzerindeki kontrolü elinde bulundurma arzusu ve bilgi güvenliğinin kontrolünü kaybetmekten sakınmalarından kaynaklanmaktadır.
+Bulut bilişim uygulamalarının bakımı kolaydır, çünkü her kullanıcının bilgisayarında kurulması gibi bir gereksinim yoktur ve farklı yerlerden erişilebilir.
+
+
+=== Talep üzerine self servis ===
+Talep üzerine self servis, kullanıcılara bilgi teknolojileri desteği gerekmeksizin bulut hizmet kataloglarını edinme, ayarlama ve uygulamaya izin verir. Bu özellik NIST (İngilizce: National Institute of Standards and Technology) tarafından bulut bilişimin bir özelliği olarak nitelendirilmiştir.
+Bulut bilişimin self servis hizmetinin alınabilmesi için, müşteriler bulut hizmet kataloglarından edinilen bulut bilişim şablonunun yaratılması için altyapı sağlayıcılarına istemde bulunur. Bu tür şablon ve blueprint üreticilerine örnek olarak HP ve RedHat verilebilir, HP CloudMaps Right Scale ve RedHat Cloudforms adında şablonları vardır.
+Şablonlar, müşteriler tarafından bulut hizmetlerinin kurulabilmesi için önceden tanımlanmış konfigürasyonlar içerirler. Şablonlar bulunan teknik bilgiler kullanılarak bulutlar kolayca kurulabilir. Her şablon farklı bulut altyapıları için spesifik konfigürasyon detaylarını içerir. Ayrıca spesifik görevlerin gerçekleştirilmesi için kullanılan sunucularla ilgili örneğin barındırma uygulamaları, veritabanları, web siteleri vb. bilgileri içerir. Şablonlar ayrıca önceden tanımlanmış web hizmeti, işletim sistemi, veritabanı, güvenlik ayarlamaları ve yük dengeleme içerir.
+Bulut hizmeti alan müşteriler bir self servis portalı vasıtasıyla bulut şablonlarını kullanarak uygulamaları bulutlar arasında taşırlar. Önceden tanımlanmış şablonlar uygulamaların farklı ortamlarda çalışması için gerekli olan bütün bilgileri tanımlar, örnek olarak, bir şablon AWS, VMware veya Redhat gibi farklı bulut platformlarına temellenmiş olan sağlayıcıların aynı uygulamayı çalıştırabilmeleri için gerekli tanımlamaları yapar. Kullanıcı organizasyonları bulut şablonlarından faydalanırlar çünkü bulut konfigürasyonlarının teknik konuları şablonlarda bulunur, müşterilere bulut hizmetlerini bir butona basarak kontrol edebilme olanağı sağlar. Geliştiriciler tarafından da bulut hizmetleri kataloğunu oluşturmak için bulut şablonları kullanılır.
+
+
+== Hizmet modelleri ==
+
+Bulut bilişim sağlayıcıları üç temel modele göre hizmetlerini sunarlar: Altyapı hizmeti (IaaS), Yazılım hizmeti (SaaS), Platform hizmeti (PaaS) .
+Altyapı hizmeti (IaaS) en temelidir ve her yükselen model bulut hizmeti alan kuruluşlara daha az iş bırakmaktadır.
+
+
+=== Altyapı hizmeti (IaaS) ===
+Bu en temel bulut hizmet modelinde, bulut sağlayıcıları, sunucuları, fiziksel veya sanal makinalar olarak sunarlar. Sanal makinalar hipervizör tarafından konuklar gibi çalıştırılırlar, örneğin Xen veya KVM. Bulut işletimsel destek sistemi tarafından hipervizörler havuzlarının yönetimi çok fazla sayıda sanal makinaya destek sağlanmasının ölçeklendirilmesi kabiliyetine öncülük etti. Altyapı hizmeti (IaaS) bulutları içinde bulunan diğer kaynaklar sanal makine imaj kütüphanesindeki imajlar, İngilizce: raw (block) veya dosya tabanlı depolama, güvenlik duvarları, yük dengeleyiciler, IP adresler, sanal yerel alan ağları(wLans) ve yazılım demetleridir. Amies, Alex; Sluiman, Harm; Tang IaaS bulut sağlayıcıları veri merkezlerinde kurulu bulunan büyük bilgi teknolojileri havuzlarından talep üzerine bu kaynakları sağlarlar. Geniş alan bağlantıları için, İnternet kullanılabilir veya telekomünikasyon şirketi bulutlarına adanmış sanal özel ağlar (VPN) konfigüre edilebilir.
+Uygulamaları yerleştirebilmek için bulut hizmeti alan müşteriler makinelere işletim sistem imajlarını yüklediği gibi uygulama yazılımlarını da yükler. Bu modelde işletim sistemleri ve uygulama yazılımlarının onarımından, sürdürülmesinden bulut hizmeti alan sorumludur.
+Bulut sağlayıcıları genellikle Altyapı hizmetini (IaaS) hizmet bilgi işleme temeli üzerinde; yani ayrılan ve tüketilen kaynak miktarının ücrete yansıtılması olarak faturalandırırlar.
+Altyapı hizmeti (IaaS) temel olarak müşterilerin bulut sağlayıcılarının bilgi teknolojileri altyapısından kendilerine daha uygun şartlarda faydalanmasıdır.
+
+
+=== Platform hizmeti (PaaS) ===
+Platform hizmeti (PaaS) modelinde, bulut sağlayıcıları genellikle işletim sistemi, programlama dili yürütme ortamı, veritabanı ve web sunucularını içeren bir bilgi işleme platformunu dağıtmaktadır.
+Uygulama geliştiricileri bir bulut platformunda kendi yazılım çözümlerini satın alma masraflarını, zorluklarını çekmeden ve temelinde bulunan donanım ve yazılım katmanlarını yönetmesine gerek olmadan geliştirebilir ve çalıştırabilir. Bazı Platform hizmetleri, elinde bulundurduğu sunucu ve depolama kaynaklarını otomatik olarak uygulama talebini karşılayacak şekilde yani bulut hizmeti alanların manuel olarak kaynak ayırma yapmasına gerek olmadan kaynak kullanımının ölçeklenmesine izin verir.
+Platform hizmeti sağlayıcılarına örnek olarak; Amazon Elastic Beanstalk, IBM Bluemix, Cloud Foundry, Heroku, Force.com, EngineYard, Mendix, Google App Engine, Microsoft Azure ve OrangeSpace verilebilir.
+
+
+=== Yazılım hizmeti (SaaS) ===
+Bu modelde, bulut sağlayıcıları bulutta uygulama yazılımını yüklemeyi ve işletmeyi yapar, bulut kullanıcıları bulut hizmeti alanlardan yazılıma erişirler. Bulut kullanıcıları uygulamanın üzerinde çalıştığı bulut altyapısı ve platformunu yönetmezler. Bu sayede uygulamanın bulut kullanıcısının kendi bilgisayarında kurulu olma ve çalıştırılma gereği kalmamış olur. Bakım ve destek kolaylaşmış olur. Bulut uygulamasını diğerlerinden farklı kılan esnekliğidir. Esneklik çalışma süresi zarfında değişen iş taleplerini karşılamak için görevlerin çoklu sanal makinelerde klonlanmasıyla yapılır. Yük dengeleyiciler sanal makineler kümesi üzerinde işi dağıtır. Bu işlem tek bir giriş noktası gören bulut kullanıcısı tarafından fark edilmez bile. Çok sayıdaki bulut kullanıcısına yer sağlayabilmek için, uygulamalar çok sayıda kişi tarafından kullanılabilirdir, herhangi bir makine birden fazla bulut kullanıcı organizasyonuna hizmet verebilir. Bulut tabanlı uygulama yazılımlarının özel tiplerine benzer şekilde isimlendirme yapılması yaygındır: Masaüstü hizmeti, iş süreci hizmeti, test ortamı hizmeti, iletişim hizmeti gibi.
+Yazılım hizmeti (SaaS) uygulamaları için fiyatlandırma modeli genellikle aylık ve yıllık bazda kullanıcı başına toptan fiyatlandırmadır, böylece kullanıcılar eklenir veya çıkarılırsa fiyat ölçeklenebilir ve ayarlanabilirdir.
+Yazılım hizmeti (SaaS) örnek olarak Google Apps, innkeypas, Quickbooks online, Limelight Video platform, Salesforce.com, Microsoft Office 365.
+
+
+== Bulut istemcileri ==
+Kullanıcılar bulut bilişime ağ bağlantılı istemci cihazlar ile örneğin masaüstü bilgisayarlar, dizüstü bilgisayarlar, tabletler ve akıllı telefonlar kullanarak erişirler.
+Bu cihazların bazıları uygulamalarının çoğu veya tamamı için bulut bilişimden faydalanır ve bulut bilişimsiz hiçbir işe yaramamaktadır. Örnek olarak zayıf istemciler ve tarayıcı tabanlı Chromebook'lardır. Bulut uygulamalarının çoğu istemciler üzerinde spesifik bir yazılım gereksinimi duymaz ve bulut uygulamalarıyla etkileşmek için web tarayıcısı kullanırlar. Ajax ve HTML5 ile kullanıcı arayüzleri bilgisayarın kendisindeki uygulamalara benzer hatta daha iyi bir görünüme ulaştı. Bulut uygulamalarının bazıları, bu uygulamalar için adanmış spesifik istemci yazılımını destekler (örneğin sanal desktop istemcileri ve email istemcilerinin çoğu). Şu anki teknolojiye önceki dillerden, platformlardan ve tekniklerden kalan veri ve uygulamalar (örneğin iş çizgisi uygulamaları, bu uygulamalar işletmeler için olmazsa olmaz uygulamalardır, bugüne kadar zayıf istemci Windows bilgi işleme içerisinde bulunuyordu) ekran paylaşım teknolojisi aracılığıyla dağıtılmaktadır.
+
+
+== Yerleştirme modelleri ==
+
+
+=== Genel bulut ===
+Genel bulut uygulamaları, depolama ve diğer kaynaklar bir hizmet sağlayıcı tarafından genel kullanıcılara sunulurlar. Bu hizmetler ücretsiz erişimlidir veya kullanım başına ödeme modeliyle ücretlendirilirler. Genel olarak, Amazon AWS, Microsoft ve Google gibi genel bulut sağlayıcıları kendi altyapılarını işletir ve sadece İnternet aracılığıyla erişim sunarlar (doğrudan bağlantı sunulmaz).
+
+
+=== Topluluk Bulutu ===
+Topluluk bulutu aynı alaka ve endişeleri (güvenlik, uyum, yargı gibi) taşıyan özel bir topluluktaki çeşitli organizasyonlar arasında altyapının paylaşılmasıdır. Dâhilî olarak yönetilebilir veya üçüncü parti tarafından yönetilebilir ve dâhilî veya haricî şekilde barındırılabilir. Masraflar genel buluta göre daha az kullanıcıya çıkar (fakat özel buluttan daha fazla kullanıcıya çıkar). Böylece sadece bulut bilişimin masraf kısıtlayıcı potansiyelinin bazıları gerçekleştirilir. Örnek olarak devlet kuruluşları ortak bir bulut kullanarak bilgi işlem ihtiyaçlarını karşılayabilirler.
+
+
+=== Hibrit (karma) bulut ===
+Hibrit bulut iki veya daha fazla bulutun (özel, topluluk veya genel) birleşimidir, bu farklı bulutlar müstakil olarak bulunmaktadır fakat birbirlerine bağlıdırlar, böylece çoklu yerleştirme modellerinin imkânlarını sunarlar.
+Hibrit bulut mimarisi, şirketlerin ve bireylerin İnternet bağlantısına gerek olmadan yerel olarak acil kullanılabilme kabiliyeti ile hata tolerans derecesini yükseltmeyi başarır. Hibrit bulut mimarisi hem şirket içi kaynaklara hem de dışarıdan (uzak) sunucu tabanlı bulut altyapısına gereksinim duyar. Hibrit bulutlarda kurum içi uygulamalar esnek, güvenli ve belirli olmalıdır. Hibrit bulut sağlayıcıları bu ihtiyacı (şirket içi uygulamaların esnekliğini) bulut tabanlı hizmetlerin hata toleransı ve ölçeklendirilebilirliği ile sağlar. Yani işletme normal işleyişte özel bulutunu kullanırken yüksek/tepe yük gereksinimlerinde genel buluttan ani kapasite artışlarını karşılayabilmektedir.
+Hibrit bulutun özel bulut kısmında kritik uygulamalar, genel bulut kısmında ise daha az güvenlik kaygısı duyulan uygulamalar yerleştirilebilir.
+
+
+=== Özel Bulut ===
+Özel bulut sadece tek bir organizasyon için işletilen bulut altyapısıdır, dâhilî olarak veya üçüncü parti tarafından yönetilebilir ve yine dâhilî veya haricî olarak barındırılabilir.
+Bir özel bulut projesi gerçekleştirilirken iş ortamının sanallaştırılması için belirli bir seviye ve sözleşme derecesi belirlenmelidir ve organizasyonun var olan kaynaklar hakkında kararlarını yeniden değerlendirmesi gerekir. Doğru yapıldığı zaman, iş üzerinde pozitif bir etkiye sahip olabilir, fakat projedeki adımların her biri ciddi hasar görebilme ihtimallerinin engellenmesi adına ele alınması gereken güvenlik meselelerini ortaya koyar.
+Özel bulutlar eleştirilere sebep olmaktadır çünkü kullanıcılar hala bunları almak, kurmak ve yönetmek zorundalar hatta daha az aktif katılımlı yönetim modellerinden faydalanamamaktalar, esasında bulut bilişimi bu kadar merak uyandırıcı yapan ekonomik modele olan gereksinimidir.
+
+
+== Mimari ==
+
+Bir bulut bilişim sisteminden bahsederken iki kategoride değerlendirmek gerekir: ön taraf ve arka taraf. Bu iki kısım birbirlerine bir ağ, genellikle İnternet ile bağlıdır. Ön taraf bilgisayar kullanıcısı veya müşteri tarafıdır. Arka taraf ise sistemin bulut kısmıdır.
+Ön taraf, istemcinin bilgisayarını (veya bilgisayar ağını) ve bulut bilişim sistemine erişim için gerekli olan uygulamayı içerir. Bütün bilişim sistemleri aynı kullanıcı arayüzüne sahip değildir. Web tabanlı e-posta programları gibi hizmetler herhangi bir web tarayıcısı kullanarak çalışabilir. Diğer sistemler istemcilere ağ erişimi sağlayan birbirinden farklı uygulamalar sağlarlar.
+Sistemin arka tarafında bilişim hizmetlerinin bulutunu oluşturan çeşitli bilgisayarlar, sunucular, veri depolama sistemleri vardır. Teoride, bir bulut bilişim sistemi pratik olarak veri işlemeden video oyunlarına kadar bütün bilgisayar programlarını içerebilir. Genellikle her bir uygulamanın kendine ait bir sunucusu vardır.
+Bir merkez sunucusu sistemi yönetir, trafiği ve istemci taleplerini her şeyin yolunda gittiğinden emin olmak için monitörler. Protokoller denilen bir takım kuralları izler ve middleware denilen özel bir yazılım kullanır. Middleware ağ bağlantılı bilgisayarların birbiriyle iletişim kurmasını sağlar. Çoğu durumda sunucular tam kapasite çalışmazlar. Bu kullanılmayan işleme gücünün boşa gitmesi manasına gelir. Fiziksel bir sunucuyu aslında her biri kendi bağımsız işletim sistemini çalıştıran çoklu sunucularmış gibi kullanmak mümkündür. Bu tekniğe sanallaştırma denilmektedir. Sunucu sanallaştırması birbirinden ayrı bulunan sunuculardan en iyi şekilde faydalanılmasıyla daha az fiziksel makineye ihtiyaç duyulmasına sebep olur.
+Eğer bir bulut bilişim şirketi birçok istemciye sahip ise, depolama alanı için yüksek bir talep olması muhtemeldir. Bazı şirketler yüzlerce dijital depolama cihazı gereksinimi duyar. Bulut bilişim sistemleri bütün istemcilerinin bilgilerini koruyabilmek için asgari çiftli depolama cihazları bulundurmalıdır. Bunun sebebi bu cihazlar aynı bilgisayarlar gibi kimi durumlarda arızalanmaktadır. Bir bulut bilişim sistemi bütün istemcilerinin bilgilerinin kopyasını oluşturmalı ve diğer depolama cihazları üzerinde depolamalıdır. Bu kopyalar merkez sunucunun yedek makinelere erişmesine ve verileri geri getirmesine izin verir aksi takdirde verilerde kayıplar yaşanabilir.
+
+
+=== İngilizce: Intercloud ===
+İngilizce: Intercloud küresel çapta birbirine bağlı bulutların bulutudur ve İnternet gibi ağların ağı benzetmesinin bulut teknolojisine uygulanışıdır.
+
+
+=== Bulut mühendisliği ===
+Bulut mühendisliği mühendislik disiplinlerinin bulut bilişime uygulamasıdır. Yüksek seviyeli ticarileştirme endişelerine sistematik bir yaklaşım getirir, standartlaştırma ve denetim yani bulut bilişim sistemlerinin yaratılması, geliştirilmesi, işletilmesi ve sürdürülmesi konularını inceler. Bu çok disiplinli yöntem; sistemler, yazılım, web, performans, bilgi, güvenlik, platform, risk ve kalite mühendisliği gibi çeşitli alanlardan katkılarla oluşur.
+
+
+== Bulut Bilişimde Endişeler ==
+Belki bulut bilişim hakkındaki en büyük endişeler güvenlik ve gizliliktir. Önemli bilgilerin başka bir şirkete teslim edilmesi fikri bazı insanları tedirgin etmektedir. Şirket yöneticileri şirketlerinin bilgilerini kilitli ve anahtarın kendilerinde olduğu bir sistem olmadığı için bulut bilişim sistemlerinin avantajlarından faydalanmakta tereddüt yaşayabilirler.
+
+
+=== Gizlilik ===
+Bulut modeli, bulut hizmetleri kontrolü barındıran şirketlerdeki aşırı rahatlıktan dolayı gizlilik hakkının ihlal edildiğini düşünenlerce eleştirilmektedir, çünkü bu şirketler yasal veya yasa dışı bir şekilde barındırma şirketi ile kullanıcı arasındaki iletişimi ve depolanan bilgiyi görüntüleyebilmekteler. Örneklerden biri gizli NSA programı, AT&T ve Verizon birlikte çalışarak Amerikan vatandaşları arasındaki 10 milyon telefon görüşmesini kaydetti, bu olay bilginin mahremiyetini savunanlarda derin bir kuşku yarattı ve telekomünikasyon şirketlerine kullanıcı aktivitelerini gösteren çok büyük bir güç verdi. Birden fazla müşteriye aynı sunucular üzerinde hizmet sağlandığında şirketler arasında gizlilik ihlalleri söz konusu olabilmektedir. Ayrıca bulut hizmeti almak, bulut sağlayıcılarına bir nevi bağımlılığa dönüşebilir, müşteri bulut sağlayıcısını değiştirmek istediğinde sağlayıcının elinde koz olarak kullanabileceği müşterisinin kritik bilgileri olabilir.
+Bulut hizmet sağlayıcılarındaki kritik nokta şu ki, müşteri veya kullanıcının verisi aynı sistem (sunucu) üzerinde kalmayabilir veya aynı veri merkezinde de bulunmayabilir hatta aynı sağlayıcının bulutunda bile olmayabilir. Bu durum yargılama yetkisi üzerindeki yasal endişelere sebebiyet vermektedir. Bununla birlikte yasal ortamları uyumlu hale getirmek için yapılan (örneğin US-EN Güvenlik Limanı) çabalar bulunmaktadır, Amazon gibi sağlayıcılar hala büyük marketlere (ABD ve Avrupa Birliği) yerel altyapı yerleştirerek ve müşterilere erişilebilirlik alanlarını seçmesine izin vererek hizmet sağlamaya devam etmektedir. Bulut bilişim gizlilik endişelerini giderememiştir çünkü hizmet sağlayıcıları bulut üzerinde bulunan veriye istedikleri zaman erişebilirler. Hatta kazayla veya kasıtlı olarak değiştirebilirler veya silebilirler.
+
+
+=== Standartlarla uyum ===
+Amerika'da FISMA, HIPAA gibi, Avrupa'da AB Model koşulları, Data Protection Directive gibi ya da tüm dünyadaki en iyi güvenlik standartlarından olan ISO 27001 Sertifikası gibi veya kredi kartı endüstrisindeki PCI DSS gibi yönetmeliklerle uyumluluğu elde edebilmek için kullanıcılar topluluk yerleştirme modelini benimsemek zorunda kalabilirler veya hibrit yerleştirme modelini benimsemek zorunda olabilirler. Bu durum genel olarak daha pahalı ve kısıtlanmış faydalar sunar.
+Çoğu sağlayıcı ayrıca bir SAS 70 tip II denetimi elde eder, fakat denetçiler tarafından belirlenen sağlanması gerekli kriterler kümesi eleştirilmektedir ve denetlenen sağlayıcılar açıklanmamaktadır ve bu kriterler geniş ölçüde farklılık arz etmektedir. Sağlayıcılar genellikle bu bilgiyi talep üzerine kamuoyuna açıklamama koşulları altında vermektedirler.
+Avrupa'daki müşteriler Avrupa birliği dışındaki bulut sağlayıcıları ile kişisel bilgilerin ihracı konusunda Avrupa Birliği düzenlemelerine bağlı kalması zorunluluğu ile anlaşma yapabilmektedir.
+Amerikan Yönetim ve Bütçe Ofisi tarafından yönlendirilen ABD Federal Ajansı, FEDRAMP denilen bir süreç kullanarak bulut ürünlerini ve hizmetlerini değerlendirir ve ruhsat verir. FEDRAMP, NIST Special Publication 800-53'in altkümesinden oluşan özellikle bulut ortamlarında korunmayı sağlamak için seçilen güvenlik kontrollerinden oluşur. JAB (İngilizce: Joint Accreditation Board), bulut çözümlerinin değerlendirilmesini gerçekleştirecek olan üçüncü parti organizasyonların uyması gereken akreditasyon standartlarının belirlenmesinden sorumludur. JAB yetkilendirme paketlerini inceler ve geçici yetkilendirmeyi onaylayabilir. Federal Ajans, JAB tarafından sağlanan bu hizmeti kullanarak çalışabilme için hala son yetki belgesini düzenlemek ile sorumludur.
+
+
+=== Hukuk ===
+Küresel bilgi işleme sahasındaki devrimsel bir değişiklik tahmin edileceği üzere sorunlar doğuracaktır; ticari marka ihlali, güvenlik endişeleri, veri kaynaklarının paylaşılması gibi.
+
+
+=== Açık kaynak ===
+Açık kaynak yazılım, birçok bulut bilişim işletimleri için temelleri sağlamıştır öne çıkan örnekler Hadoop Framework ve VMware'nin CloudFoundry'sidir. 2007 Kasımında, Free Software Foundation the Affero General Public License'ı yayınladı. Bu yayın GPLv3'ün bir versiyonu olarak bir ağ üzerinde çalışması için tasarlanmış ücretsiz yazılımlarla ilişkili fark edilmiş yasal bir boşluğu kapatmayı amaçlamıştır.
+
+
+=== Açık standartlar ===
+Bulut sağlayıcılarının çoğu genellikle API'lerini iyi belgelenmiş (sıklıkla İngilizce: Creative Commons lisansı altındadır) olarak sunar fakat bu API'ler işletim olarak farklıdır ve birlikte çalışamazlar. Bazı sağlayıcılar, diğerlerinin API'lerini benimsemiştir ve bir dizi açık kaynak geliştirilme aşamasındadır, bu çalışmalar birlikte çalışabilirlik ve taşınabilirlik amaçlanmaktadır.
+
+
+=== Güvenlik ===
+Bulut bilişim popülerliğini artırdıkça, bu yeni modelle ortaya çıkan güvenlik sorunları endişeleri artırmıştır. Geleneksel koruma mekanizmalarının etkinliği ve verimliliği yeniden değerlendirilmektedir, çünkü bu yeni yerleştirme modelinin özellikleri büyük ölçüde geleneksel mimarilerden farklılık arz etmektedir.
+Bulut bilişim hizmetlerinin göreceli güvenliği geniş kitleler tarafından kabulünü geciktiren tartışmalı bir meseledir. Özel bulut ekipmanlarının fiziksel kontrolünün yapılabilirliği ekipmanların tesis dışında ve başkalarının kontrolünde olmasından daha güvenlidir. Veri bağlantılarının güvenliği için fiziksel kontrol ve veri bağlantılarını görsel olarak incelemek ve portlara erişebilmek gereklidir. Bulut bilişimin benimsenmesi yolundaki engellerin sebebi çoğunlukla özel ve halk sektörünün güvenlik tabanlı hizmetlerinin haricî yönetiminin korku ve endişeye sebep olmasıdır. Bulut bilişim tabanlı hizmetlerin dışarıdan sağlanması ise en temel özelliğidir. Bu durum bulut bilişim hizmet sağlayıcılarına güvenli hizmetlerin yönetimini kurma ve sürdürmeye öncelik verilmesi hususunda iticidir. Güvenlik meseleleri kategorize edilmiştir: hassas veri erişimi, veri ayırma, gizlilik hakkı, virüs kullanımı, geri kazanma (kurtarma), sorumluluk, malicious insiders, yönetim kontrol güvenliği, hesap kontrolü ve çoklu kullanıcı sorunları. Çeşitli bulut güvenlik sorunlarına üretilen çözümler, kriptografi, özellikle kamu anahtar altyapısı (PKI), çok sayıda bulut sağlayıcısı kullanımı, API'lerin standartlaştırılması, sanal makine desteğinin ve yasal desteğin geliştirilmesi gibi.
+Bulut bilişimin çok fazla faydasının yanında tehditlere karşı savunmasızdır da. Bulut bilişim kullanımları yaygınlaştıkça, bilişim suçluları muhtemelen sistemde korunmasız yerlere zarar vermek için yeni yollar bulacaklardır. Bulut bilişimde temel düzeyde riskler ve sıkıntılar vardır, bu durum veri güvenliğini tehdit etmektedir. Tehditleri azaltmaya yardım etmek üzere, bulut bilişim sektör liderleri sistemin veriyi koruması için şifrelemesini garanti etmeyi sağlayacak risk değerlendirmeye ağırlıkla yatırım yapmalıdır, yine sektör liderleri platform ve altyapıyı güvenli hale getirmek üzere ve değerlendirme de yüksek güvence sağlayacak güvenilir bir kuruluş kurmalıdır. Güvenilir bir bulut bilişim teknolojisi için güvenlik sorunları ele alınmalıdır.
+
+
+=== Sürdürülebilirlik ===
+Bulut bilişimin sıklıkla yeşil bilgi işlemenin bir formu olarak farz edilmesine rağmen, bu sanıyı doğrulamak için yayınlanmış bir çalışma bulunmamaktadır.
+
+
+=== Bulut bilişimin kötüye kullanılması ===
+Müstakil olarak satın alınmış donanım gibi, müşteriler bulut bilişim sunucularını kötü amaçlar için satın alabilirler. Parola kırma, satın alınmış hizmetler kullanarak saldırılar gerçekleştirme gibi.
+Örneğin 2009'da, bir banka işlemleri trojan virüsü, çok popüler olan Amazon bulut hizmetini yasadışı olarak kişisel bilgisayarlara yazılım güncellemeleri ve zararlı yönergeler yayınlayan bir komuta ve kontrol merkezî olarak kulandı.
+
+
+=== Bilgi teknolojileri yönetimi ===
+Bulut bilişim kullanımının başlangıcı uygun bir BT yönetim modeli gerektirir, uygun BT yönetim modeli güvenli bilgi işleme ortamını sağlar ve bütün alakalı işletimsel bilgi teknolojileri politikaları ile uyum sağlar.
+Aslında, bulut hizmetlerinin işletim ve yönetiminin etkin bir şekilde yapılabilmesi için işletmeler temel olan bir takım yeteneklere gereksinim duyarlar. Bunlar; talep yönetimi, ilişki yönetimi, veri güvenliği yönetimi, uygulama yaşam döngüsü yönetimi, risk ve uyum yönetimi.
+
+
+== Araştırma ==
+Üniversitelerin, bulut sağlayıcılarının ve hükûmet organizasyonlarının çoğu bulut bilişim başlığı çerçevesinde araştırmalar için yatırım yapmaktadır.
+2007 Ekim'inde Akademik Bulut Bilişim İnisiyatifi (ACCI) tarafından çok sayıda üniversitenin katıldığı öğrencilerin bulut bilişim alanındaki teknik bilgisini artırmayı amaçlayan bir proje duyurulmuştu.
+2009 Nisan'ında, UC Santa Barbara ilk açık kaynak platformu AppScale'i hizmete açtı, AppScale çoklu altyapılar üzerinde Google App Engine uygulamalarını çalıştırma kapasitesine sahipti.
+2010 Ekim'inde İngilizce: TClouds (Güvenilir Bulutlar) projesi, Avrupa Komisyonunun 7. Çerçeve programı tarafından desteklenerek başlatıldı. Projenin amacı yasal bir kurumu araştırmak ve teftiş etmek, güvenilir ve sağlam bulutların bulutu altyapısını kurmak üzere mimari tasarımında araştırılıp teftiş edilmesidir. Proje sonuçlarını görmek için bir prototip geliştirildi.
+2010 Aralık ayında, TrustCloud araştırma projesi HPLabs Singapore tarafından başlatıldı, şeffaflık ve denetime açık olmasını araştırmacı ve veri odaklı yaklaşımlar vasıtasıyla beş katmanlı TrustCloud çerçevesinde kapsanarak ele alınması planlanmıştır.
+2011 Temmuz ayında, Yüksek performans Bilgi İşleme Bulutu (İngilizce: HPCCloud) projesi bulut ortamlarındaki muhtemel performans yükseltmeleri amacıyla başlatıldı.
+
+
+== Türkiye’de bulut bilişimi ==
+Türkiye'de bulut bilişime yönelik yoğun bir ilgi söz konusudur, Kamu sektöründe Ulaştırma ve Altyapı Bakanlığı'nın yaptığı çalışmalar dikkat çekicidir. Fakat bulut bilişim alanında verilerin güvenliği konusunda herhangi bir yasal düzenleme mevcut değildir.
+Bussiness Software Alliance (BSA) tarafından yayınlanan küresel çapta bulut bilişimin gelişiminde etkili olan ülkeler sıralamasında 24 ülke arasında Türkiye 17. sıradadır.
+
+
+== Bazı bulut depolama hizmetleri ==
+Box.net
+Dropbox
+Google Drive
+Google Picasa Web Albums
+iCloud
+iOmegaCloud
+Mobile Me
+Ttnet Netdisk
+OneDrive
+ownCloud
+Slax Drive
+Yandex.Disk
+Cloud Mail.Ru
+Mega
+4shared
+lifebox
+
+
+== Ayrıca bakınız ==
+Bulut depolama
+
+
+== Kaynakça ==

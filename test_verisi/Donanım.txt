@@ -1,0 +1,4 @@
+Donanım aşağıdaki anlamlara gelebilir:
+
+Ağ donanımı: Bilgisayar ağının elemanları arasında iletişim için gerekli aygıtlar.
+Bilgisayar donanımı: Bilgisayarda bulunan fiziksel birimler.

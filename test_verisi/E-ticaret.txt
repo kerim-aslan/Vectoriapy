@@ -1,0 +1,85 @@
+Elektronik ticaret ya da kısaca e-ticaret, 1995 yılından sonra İnternet kullanımının artmasıyla ortaya çıkan, ticaretin elektronik ortamda yapılması kavramıdır. Mağazasız perakendecilik olarak da bilinir. E-ticaret, mobil ticaret, çevrimiçi pazaryeri, elektronik fon transferi, tedarik zinciri yönetimi, İnternet pazarlaması, çevrimiçi işlem işleme, elektronik veri değişimi (EDI), envanter yönetim sistemleri ve otomatik veri toplama sistemleri gibi teknolojilerden yararlanır. E-ticaret, elektronik endüstrisinin en büyük sektörüdür ve yarı iletken sanayiinin teknolojik ilerlemeleri tarafından yönlendirilmektedir.
+Mal ve hizmetlerin üretim, tanıtım, satış, sigorta, dağıtım ve ödeme işlemlerinin bilgisayar ağları üzerinden yapılmasıdır. Elektronik ticaret, ticari işlemlerden biri veya tamamının elektronik ortamda gerçekleştirilmesi yoluyla reklam ve pazar araştırması, sipariş ve ödeme, teslimat olmak üzere üç aşamadan oluşmaktadır.
+
+
+== Tanımlama ==
+Elektronik ticaret, tüm dünyada ticaretin serbestleştirilmesi eğilimi ile birlikte, 2000'li yıllardan sonra yaşanan ve bilgi iletişimini kolaylaştıran teknolojik gelişmelerin bir parçası olarak ortaya çıkmıştır. Geleneksel pazarlama yöntemlerine, İnternet olanaklarını da ekleyen kuruluşlar, sadece belirli bir kitleye satış yapabilmenin ötesine geçip, üretkenliği ve yaratıcılığı arttıran küresel e-ticaret bağlantıları kurma şansını elde edebilmeye başlamıştır. Eskiden birçok şirket televizyon, gazete, radyo gibi araçları kullanarak potansiyel müşterilerine ulaşmaya uğraşırken, bugün bunlara İnternet üzerinden reklamcılık da eklenmiştir.
+Elektronik ticaretin araçları, birbirleriyle ticaret yapanların ticari işlemlerini kolaylaştıran telefon, faks, bilgisayar, elektronik ödeme ve para transfer sistemleri, elektronik veri değişimi sistemleri (Electronic Data Interchange-EDI), İnternet gibi her türlü teknolojik ürünlerdir. EDI, ticaret yapan iki kuruluş arasında, insan faktörü olmaksızın bilgisayar ağları aracılığı ile belge ve bilgi değişimini sağlayan bir sistem olarak elektronik ticaretin önemli bir aracıdır. Elektronik ticaret açısından en etkin araç olarak kabul edilen yeni İnternet teknolojileri ise ses, görüntü ve yazılı metni aynı anda, daha hızlı ve güvenli bir şekilde ilettiğinden, İnternet üzerinden yapılan bu işlemlerin maliyeti diğer araçlara oranla hayli düşüktür.
+Geçmişte bir ölçüye kadar kapalı bilgisayar ağları üzerinden gerçekleştirilen elektronik ticaret uygulamaları, güvenli olmakla birlikte maliyeti yüksek sistemlerdir. Günümüzde, açık bilgisayar ağı olan internet, elektronik ticaret için çok daha uygun bir altyapıdır. İnternet aracılığıyla, artık kapalı yapıdan açık yapıya geçerek küreselleşen ağların getireceği avantajlardan yararlanılmaktadır. Bu da özellikle KOBİ'lerin (Küçük ve Orta Ölçekli İşletmelerin) dünya ticaretinde daha fazla yer almalarına olanak sağlamaktadır. Elektronik ticaret, özellikle KOBİ'ler için çok uygun bir ticaret şeklidir. Elektronik ticaret, ürün seçeneklerinin artmasını, ürünlerin kalitesinin yükselmesini ve daha hızlı bir şekilde ödenerek teslim alınmasını sağlamaktadır. Potansiyel tüketicilerin dünyanın her yanında pazara arz edilen ürünler hakkında bilgi sahibi olmalarına ve yeni üreticilerin dünya pazarlarına girmelerine imkân vermektedir. Daha düşük fiyatlı ve kaliteli ürünlerin pazara girmesi üreticiler arasında rekabetin artmasına ve tüm ticari işlemlerin maliyetinin düşmesine neden olmaktadır.
+Elektronik ticaret, üretici ve tüketicileri, özellikle KOBİ'leri geleneksel ticaret engelleri olan pazara uzaklık, bilgi eksikliği ve talebe uygun üretim yapılamayışı gibi dezavantajlardan kurtarabildiği ölçüde yararlı olacaktır. Ancak, elektronik ticaret ülkelerin tüm ticari sorunlarını (örneğin ulusal tedarik zincirindeki halkaları) çözemez. Elektronik ticaret konusunda yeterli bilgi ve deneyime sahip olmayan ülkeler ilk aşamada interneti sadece reklam veya pazar araştırması amacıyla kullanabilirler.
+E-ticareti bu kadar gözde kılan unsurlar arasında; e-ticaretin, şirket ile hedef kitlesi arasındaki doğrudan ilişki sağlaması, pazarlamacılara istedikleri bilgileri sunması, hızlı ve düşük maliyetli olması ve tüm bunların elektronik ortamda yapılıyor olması sayılabilir. Diğer olumlu unsurlar arasında ise dağıtımda kolaylık ve ucuzluk, tüketici ile daha rahat etkileşim, anında geri dönüş, dikkat çekicilik, küresel pazarla tanışma, 24 saat hizmet ve anında satış yer alır.
+Normal koşullarda ortalama 10 yıl alan markalaşma süreci, elektronik ticaret sayesinde 2 yıla inmiş durumdadır. Bugün "Dünyanın en büyük 500" şirketi listesinde bundan birkaç yıl önce kurulmuş olan onlarca e-şirket yer alıyor.
+Etkisi küresel olan İnternet ekonomisi, hem ticaret hem de siyaseti etkiler. Tüm dünya çapında, iş dünyasının önderleri, kendi şirketlerinin ayakta kalma ve rekabet edebilme yetilerinde internetin oynadığı rolü kabul etmektedir. Şirketlerin, bu yeni ekonomide rekabet edebilmek için internetin gücünden yararlanma gereksinimi ortaya çıkmıştır.
+E-ticaret, genellikle bir işlemin yaşam döngüsünün en azından bir kısmı boyunca web'i kullanır, ancak e-posta gibi diğer teknolojileri de kullanabilir. Tipik e-ticaret işlemleri arasında ürün (Amazon Books gibi) veya hizmetlerin (iTunes Store gibi dijital dağıtım biçiminde müzik indirmeleri) satın alınması yer alır. E-ticaretin üç alanı vardır: çevrimiçi alışveriş, elektronik pazarlar [11] ve çevrimiçi müzayede. E-ticaret, elektronik işletmeler tarafından desteklenmektedir. E-ticaretin varoluş değeri, tüketicilerin çevrimiçi alışveriş yapmasına ve İnternet üzerinden çevrimiçi ödeme yapmasına olanak tanımak, müşterilerin ve işletmelerin zamandan ve yerden tasarruf etmesini sağlamak, özellikle yoğun ofis çalışanları için işlem verimliliğini büyük ölçüde artırmak ve aynı zamanda çok değerli zamandan tasarruf etmektir.
+2017 yılında, iki milyar insan mobil bir e-ticaret işlemi gerçekleştirdi.
+
+
+== E-ticaret hacmi ve Türkiye'deki durum ==
+Dünyada 2001 yılında yapılan e-ticaretin hacmi 65 milyar dolar iken, 2007 yıl sonu beklentisi bu rakamın 233 milyar dolara ulaşması yönünde. Türkiye'deki altyapı yetersizlikleri, bilgisayar ve internet kullanımındaki düşük düzey, internete olan güvensizlik ve yüksek fiyatlardan dolayı e-ticaret beklenildiği kadar gelişmiş değil. 2007 yılı BKM verilerine bakıldığında Türkiye'de e-ticaret cirosu 5.537,17 YTL'dir. Bu rakam 2008 yılı Ağustos ayı ile birlikte 6.208,5; 2009 yılı Ağustos ayı itibarıyla 10.541,6 seviyesine ulaşmıştır.
+BKM tarafından açıklanan verilere göre, 2009 yılında Türkiye'deki e-ticaret hacmi 10 milyar TL seviyesini geçti. Başka herhangi bir kurum resmi olarak sektör verilerini açıklamadığı için bu rakam baz alınarak Türkiye'deki Online perakende sektörü hakkında bir değerlendirme yapılması yanlış olacaktır çünkü BKM'nin açıkladığı veriler sanal POS cihazları üzerinden geçen toplam ticareti ölçüyor. Türkiye genelinde satış veya bayilik ağı bulunan birçok firma, merkeze geçilen siparişleri sanal POS'lar üzerinden işleme alıyor. Örneğin mağazada kontör satışı yapan bir mobil operatör bayisinin talebi veya bir seyahat acentesından alınan uçak biletleri veya tatil paketleri sanal POS üzerinden sisteme giriliyor. Bu nedenle online ticarete ait olmasa da ciddi bir ticaret hacmi, BKM rakamları içerisinde yer alıyor. Kısaca Türkiye'de resmi olarak açıklanan tek e-ticaret verisi kabul edilen BKM sanal POS işlem ve hacimleri aslında büyük oranda elektronik olmayan ticareti içeriyor.
+Bankalararası Kart Merkezi'nin (BKM) resmi verilerine göre 2012 yılı Temmuz ayında Türkiye e-ticaret sektöründe yaratılan hacim 3 milyar 186 milyon TL'ye ulaştı. Söz konusu dönemde gerçekleşen işlem adediyse 14 milyon 393 bin olarak kayıtlardaki yerini aldı. 2016 yılında Türk e-ticaret sektörünün aylık hacmi 5 milyon TL'nin üzerindedir.
+Dünyada olduğu gibi Türkiye'de de e-ticaret sektörünün gelişimini destekleyen başlıca unsurlar genç ve dinamik nüfus ile artan internet, mobil cihaz ve kredi kartı kullanımıdır. İnternetten alışverişin demografik yapısı incelendiğinde, çoğunlukta genç nüfus ve kadın kullanıcı sayısının kayda değer ölçüde arttığı görülmektedir. Türkiye'de internet kullanıcı sayısı ve buna bağlı olarak e-ticarete olan ilgi giderek artmaktadır. BKM verilerine göre Türkiye'de e-ticaret hacmi 2015 yılında %35 büyüyerek 54 milyar TL seviyesine ulaşmıştır ve tahminlere göre 2016 yılını 72 milyar TL seviyesinde kapatması beklenmektedir. Ayrıca e-ticaretin büyümesinde bir gösterge olarak kabul edilen internetten yapılan kartlı ödemelerde, Avrupa ülkeleri arasında en hızlı büyüyen ülke Türkiye olmuştur. Çok kanallı uygulamalar ile de online perakendenin, toplam perakende pazarı içerisinde %2'lik bir dilimi elde edeceği hesaplanıyor. Ayrıca Positive firmasının “Digital Approach” raporunda Türkiye'deki süpermarketlerin 4'te 3'ünün henüz e-ticarete geçmediği tespiti yapılmıştır.
+
+
+== Türler ==
+E-ticaret işletmeleri aşağıdakilerden bazılarını veya tamamını kullanabilir:
+
+Web siteleri ve mobil uygulamalar aracılığıyla doğrudan tüketicilere yönelik direkt satış; web sohbet, sohbet botu ve sanal asistanlar aracılığıyla sohbete dayalı ticaret.
+Üçüncü taraf işletmeden tüketiciye (B2C) veya tüketiciden tüketiciye (C2C) satışları işleyen çevrimiçi pazaryeri sağlamak veya bunlara katılmak;
+İşletmeler arası (B2B) alım ve satım.
+Web bağlantıları ve sosyal medya aracılığıyla demografik verilerin toplanması ve kullanılması.
+B2B elektronik veri alışverişi.
+Potansiyel ve yerleşik müşterilere e-posta veya faks (örneğin haber bültenleri) yoluyla pazarlama.
+Yeni ürün ve hizmetlerin piyasaya sürülmesi için ön satışla ilgilenmek.
+Döviz bozdurma veya ticaret amaçlı çevrimiçi finansal alışverişler.
+
+
+=== B2C,B2B ve B2E ===
+B2B: Business to Business kelimesinden türemiş olan bu yöntemde Türkçe karşılığı firmadan firmaya anlamına denk gelmektedir. Diğer bir deyişle 2 firma arasında gerçekleşen alışveriş türüdür.
+B2C:
+Business to Customer kelimesinin kısaltılmış halidir. Türkçe karşılığı firmadan perakende müşterisine ya da firmadan tüketiciye şeklinde çevrilebilir. En popüler e-ticaret yöntemi olmasından dolayı örnek olarak neredeyse tüm e-ticaret şirketleri verilebilir.
+B2E:
+Business to Employee kelimesinin kısaltılmış halidir. Türkçede bilinen tabiri ile, firmadan firma çalışanlarına özel sunulan indirimli yahut kampanyalı ürünlerin satıldığı şirket içi bir e-ticaret modelidir. Türkiye'de çok fazla kullanılmasa da bir takım örnekleri mevcuttur.
+C2C:
+Customer to Customer kelimesinin kısaltılmış hali olan C2C ticaret modeli tüketicilerin tüketicilere satış yapabildiği e-ticaret modelidir. GittiGidiyor gibi e-ticaret siteleri bu modele örnekler gösterilebilir.
+
+
+== Perakende sektöründe E-Ticaret ==
+Perakende sektörü değişen tüketici taleplerine zamanında ve doğru bir şekilde cevap verebilmek için hızlı olmak ve farklı satış kanallarını koordineli bir şekilde yürütmek zorundadır. Bu nedenle bilgi teknolojileri ve gerekli alt yapı yatırımları hayati önem taşımaktadır. Elektronik ortamda yapılan alışverişlerin artması ilk bakışta fiziksel mağaza satışlarına bir tehdit olarak görülse de fiziksel mağazaların tamamen ortadan kalkması gibi bir sonuç doğurmayacaktır. Aksine yaşatılacak benzersiz müşteri deneyimi ile markaya olan sadakati güçlendirecek ve fiziksel mağazalardan yapılan alışverişlere de olumlu katkı yapacaktır.
+İnternetten yapılan ticaret işlemleri arasında özellikle perakende e-ticaret, dünyada sahip olduğu potansiyel ile önemli bir büyüme hızı yakalamıştır [Şekil-2]. E-ticaret'in hızlı gelişmesinin yanı sıra dezavantajları mevcuttur. Dezavantajların başında iade oranları ve müşterinin ürünü fiziksel inceleme yapmadan satın alması gelir.
+
+
+== Müşteri temelli elektronik ortamda alışveriş modelleri ==
+Kredi kartı ile alışveriş modeli; bu iş için mal ve hizmet verenlerin ticari kuruluş olma şartları aranmaktadır.
+EFT ticari boyutta işletme olmayan daha çok bireysel alış veriş karşılıklı değiş tokuş maksadıyla işlemlerde kullanılmaktadır.
+Kapıda ödeme ile taşıma firmasına ürün teslimat adresinde ödeme yapılabilir.
+Çağrı merkezi ve yardım masası hizmetlerinin yapılması.
+EFT uygulamasında hukuki açıdan elektronik ticaret olarak tam dikkate alınmaz çünkü tek taraflı para gönderimi sonrası karşı taraf bana olan borcunu yolladı diyerekten kendini savunabilir. Bu durumun alternatifi olarak EFT'yi aracı bir hesaba aktarılması yani havuzda onay bekletme modeli bazı sitelerde kullanılır. Aracı tarafsız bir ticari kuruluş tarafından bu yöntem sıkça kullanılmaktadır.
+
+
+== Kaynakça ==
+
+
+== Dış bağlantılar ==
+T.C. Başbakanlık Dış Ticaret Müsteşarlığı e-Ticaret Genel Koordinatörlüğü 2 Aralık 2014 tarihinde Wayback Machine sitesinde arşivlendi.
+Elektronik Ticaretin İşletme Avantajları 
+E Ticaret İncelemesi
+E Girişimci Devlet Programı 8 Ocak 2014 tarihinde Wayback Machine sitesinde arşivlendi.
+Dönüşürken büyüyen Türkiye perakende sektörü raporu [1]
+
+
+== Ayrıca bakınız ==
+Teslimat (ticaret)
+Çevrimiçi açık arttırma
+Dijital dağıtım
+Çevrimiçi bakkal
+Sürdürülebilir moda
+Elektronik belge
+İnternet bankacılığı
+Paket teslimi
+Yemek teslimi
+Çevrimiçi yemek siparişi
+Çevrimiçi cüzdan
+Mobil ödeme
+Stoksuz satış
+Bulut bilişim
