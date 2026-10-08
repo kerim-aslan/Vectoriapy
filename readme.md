@@ -1,7 +1,7 @@
 
-# Vectoria Pro - Yerel Arama Motoru
+# Vectoria - Yerel Arama Motoru
 
-Vectoria Pro, bilgisayarınızdaki metin dosyalarını (.txt, .md, .py vb.) otomatik olarak indeksleyen ve **TF-IDF (Term Frequency-Inverse Document Frequency)** algoritmasını kullanarak sorgularınıza en alakalı sonuçları getiren yerel bir arama motorudur.
+Vectoria, bilgisayarınızdaki metin dosyalarını (.txt, .md, .py vb.) otomatik olarak indeksleyen ve **TF-IDF (Term Frequency-Inverse Document Frequency)** algoritmasını kullanarak sorgularınıza en alakalı sonuçları getiren yerel bir arama motorudur.
 
 ## 🚀 Özellikler
 - **Yerel Veri Toplama:** Kendi verinizi oluşturun veya Wikipedia'dan gerçek içerikler çekin.
